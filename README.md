@@ -3,8 +3,8 @@
 ******
 ******
 #### List With Studied Content
-* [NuBank Clone](https://github.com/r-santtos/Today-I-Learned/tree/master/NuBackClone)
-* [Instagram Clone](https://github.com/r-santtos/Today-I-Learned/tree/master/Instaclone)
+* [NuBank Clone](https://github.com/r-santtos/Cloning-The-NuBank-Interface)
+* [Instagram Clone](https://github.com/r-santtos/Cloning-The-Instagram-Interface)
 * [Ripefy Clone](https://github.com/r-santtos/Ripefy-Clone)
 * [Node Authentication](https://github.com/r-santtos/Node-Authentication-API-REST)
 * [Crud NodeJS API REST](https://github.com/r-santtos/CRUD-NodeJS)
