@@ -3,6 +3,7 @@
 ******
 ******
 #### List With Studied Content
+* [Authentication JWT](https://github.com/r-santtos/Authentication-JWT)
 * [NuBank Clone](https://github.com/r-santtos/Cloning-The-NuBank-Interface)
 * [Instagram Clone](https://github.com/r-santtos/Cloning-The-Instagram-Interface)
 * [Ripefy Clone](https://github.com/r-santtos/Ripefy-Clone)
