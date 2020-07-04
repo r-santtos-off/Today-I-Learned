@@ -3,6 +3,8 @@
 ******
 ******
 #### List With Studied Content
+* [Revisão JavaScript](https://github.com/r-santtos/Reviewing-JavaScript)
+* [Automação Webpack / ESLint / Git](https://github.com/r-santtos/Automation-Webpack-ESLint-Git)
 * [Selectors Redux](https://github.com/r-santtos/Selectors-Redux)
 * [Authentication JWT](https://github.com/r-santtos/Authentication-JWT)
 * [NuBank Clone](https://github.com/r-santtos/Cloning-The-NuBank-Interface)
